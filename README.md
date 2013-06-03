@@ -34,6 +34,9 @@ Descargando los cambios mas recientes del servidor
 
 git pull https://github.com/mracapri/gitcapacitacion.git
 
+------------------
+Responsables
+------------------
 
-
-
+Enrique
+Xaty
