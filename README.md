@@ -1,9 +1,5 @@
-gitcapacitacion
-===============
-
-
 -------------------------------
-Capatiacion a nivel ingenieria
+Intrucciones para clonado del repositorio
 ---------------------------------
 
 A.- Crear una carpeta tu carpeta de perfil con:
@@ -23,5 +19,15 @@ git clone https://github.com/mracapri/gitcapacitacion.git
 D.- Despues de haber descargado la carpeta del proyecto desde internet, se creo una nueva carpeta
 llamada "gitcapacitacion" dentro de la carpeta repositorio, si es correcto, entonces entrar a 
 la carpeta "gitcapacitacion"
+
+---------------------------------------
+Subiendo cambios al servidor remoto
+--------------------------------------
+
+A.- Despues de haber confirmado cambios "commit" en el servidor local. Los cambios locales tendrán que ser subidos al servidor REMOTO, con el siguiente comando:
+
+git push https://github.com/mracapri/gitcapacitacion.git
+
+
 
 
