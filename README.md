@@ -28,6 +28,12 @@ A.- Despues de haber confirmado cambios "commit" en el servidor local. Los cambi
 
 git push https://github.com/mracapri/gitcapacitacion.git
 
+------------------------------------
+Descargando los cambios mas recientes del servidor
+-----------------------------------
+
+git pull https://github.com/mracapri/gitcapacitacion.git
+
 
 
 
