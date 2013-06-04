@@ -1,4 +1,4 @@
-El resultado de la suma de dos mas dos es? --->
+El resultado de la suma de dos mas dos es? ---> 4
 La raiz cuadrada de 4 es? --->
 Que velocidad llevaba un tren, que recorrio una distacia de 650 km en 4 hrs? --->
 Cual es el area del cuadrado que mide 5.6 cm por lado? --->
