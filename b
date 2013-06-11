@@ -1,2 +1,0 @@
-
-hola amorcito como estas!!!!
